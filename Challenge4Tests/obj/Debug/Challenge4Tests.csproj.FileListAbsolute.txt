@@ -1,0 +1,17 @@
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Challenge4Tests.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Challenge4Tests.pdb
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Challenge4App.exe
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Challenge4App.pdb
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Challenge4App.exe.config
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\obj\Debug\Challenge4Tests.csprojAssemblyReference.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\obj\Debug\Challenge4Tests.csproj.CoreCompileInputs.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\obj\Debug\Challenge4Tests.csproj.CopyComplete
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\obj\Debug\Challenge4Tests.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge4\Challenge4Tests\obj\Debug\Challenge4Tests.pdb
